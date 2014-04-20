@@ -1,0 +1,6 @@
+Scripts
+=======
+
+brAthena Scripts
+
+:D
